@@ -3,7 +3,7 @@ import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
-import github from "./github.png";
+import github from "./link.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
@@ -28,10 +28,11 @@ import starbucks from "./company/NSUT_logo.png";
 
 import tesla from "./company/jamia-millia-islamia-logo-hd-png-vector-free-download-121.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
-
+import carrent from "./LcSc.png";
+import jobit from "./gfg.png";
+import tripguide from "./imageSearchApp.png";
+import portfoliophoto from "./PortfolioN.png";
+import focus from "./focus.png";
 export {
   logo,
   backend,
@@ -61,4 +62,6 @@ export {
   carrent,
   jobit,
   tripguide,
+  portfoliophoto,
+  focus,
 };
